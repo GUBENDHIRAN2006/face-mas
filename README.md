@@ -1,1 +1,1 @@
-# face-mas
+# face-mask detection using pretrained model
